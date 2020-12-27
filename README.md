@@ -17,9 +17,9 @@ The dataset contains 12 descriptors (columns):
 
 Here are the steps that I followed:
 
-    Step 1: Data collection - Read the data
-    Step 2: Let's visualize and clean the data for CB-RS
-    Step 3: Recommendation System - Content based
-    Step 4: Test
-    
+Step 1: Data collection - Read the data
+Step 2: Let's visualize and clean the data for CB-RS
+Step 3: Recommendation System - Content based
+Step 4: Test
+
 Please see the Jupiter Notebook: Netflix_recommandation.ipynb
