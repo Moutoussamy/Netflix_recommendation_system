@@ -1,13 +1,13 @@
 # Netflix  Content-Based Recommendation System (CB-RS)
  
-Based of the data avalaible on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows) I made a CB-RS.
+Based of the data avalaible on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows), I made a CB-RS.
 
 The dataset contains 12 descriptors (columns):
 - Show_id (int): unique ID
 - type (str): TV show or movie
 - director (str); movie director
 - cast (str): cast of the movie
-- country (str): contry of origin
+- country (str): country of origin
 - date_added (str): date 
 - release_year (int):release year of the movie
 - rating (str): Age limit
